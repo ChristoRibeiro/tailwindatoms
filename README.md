@@ -80,8 +80,8 @@ const MyPage = () => (
 export default MyPage
 ```
 
-## Documentation
+## Components
 
-Checkout the full documentation on [the official website][website].
+Checkout the components list on [the official website][website].
 
 [website]: https://tailwindatoms.com
