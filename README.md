@@ -1,7 +1,24 @@
-# Tailwind Atoms
 
-⚛️ Set of Tailwind CSS plugins to get atoms components ready to use with HTML & React. No need to design again a `button`, an `input` or a `checkbox` switch.
 
+<div align="center">
+  <h3>Tailwind Atoms</h3>
+</div>
+<div align="center">
+  Tailwind CSS plugin to get atomic components ready to use
+</div>
+<div align="center">
+ with HTML & React: <code>button</code>, <code>input</code>, <code>checkbox</code> switch...
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://tailwindatoms.com/">Website</a> 
+<span> · </span>
+  <a href="https://tailwindatoms.com/">Documentation</a> 
+<span> · </span>
+  <a href="https://twitter.com/christoribeiro">Twitter</a>
+</div>
 
 ## Setup
 
@@ -17,7 +34,7 @@ npm install tailwindatoms --save-dev
 npm install @tailwindatoms/react # if you use React
 ```
 
-Add the plugin:
+Add the plugin to your Tailwind config:
 
 ```javascript
 // tailwind.config.js
