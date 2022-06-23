@@ -15,10 +15,17 @@
 <div align="center">
   <a href="https://tailwindatoms.com/">Website</a> 
 <span> · </span>
-  <a href="https://tailwindatoms.com/">Documentation</a> 
+  <a href="https://tailwindatoms.com/">Components</a> 
 <span> · </span>
   <a href="https://twitter.com/christoribeiro">Twitter</a>
 </div>
+
+<br />
+
+<div align="center">
+  <sup>Created by <a href="https://twitter.com/christoribeiro" target="_blank">Christophe Ribeiro</a> 🪄</sup>
+</div>
+
 
 ## Setup
 
