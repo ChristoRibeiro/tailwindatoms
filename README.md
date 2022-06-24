@@ -1,4 +1,6 @@
-
+<a href="https://tailwindatoms.com/">
+  <img alt="Tailwind Atoms" src="https://github.com/ChristoRibeiro/tailwindatoms/raw/main/assets/banner.svg"/>
+</a>
 
 <div align="center">
   <h3>Tailwind Atoms</h3>
